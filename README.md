@@ -8,7 +8,7 @@ BYTEPATH 为 [a327ex](https://github.com/a327ex) 开发的一款游戏，项目�
 
 使用 [Love2d](https://github.com/love2d/love) 与 [Lua](http://www.lua.org/) 进行开发
 
-> LÖVE是用于开发2D视频游戏的开源跨平台引擎。该引擎是用C ++编写的，并使用Lua作为其脚本语言。它是在zlib许可证下发布的。通过引擎提供的API，可以通过SDL和OpenGL库访问主机的视频和声音功能，也可以通过OpenGL ES 2和OpenGL ES 3库访问声音功能。字体可以由FreeType引擎呈现。
+> LÖVE是用于开发2D视频游戏的开源跨平台引擎。该引擎是用C ++编写的，并使用Lua作为其脚本语言。它是在zlib许可证下发布的。通过引擎提供的API，可以通过SDL和OpenGL库访问主机的视频和声音功能，也可以通过OpenGL ES 2和OpenGL ES 3库访问声音功能。字体可以由FreeType引擎呈现。  --维基百科
 
 游戏截图：
 
